@@ -12,4 +12,6 @@ youyic
 
 
 20181202
-feature2
+<<<<<<< HEAD
+feature3
+>>>>>>> feature1
